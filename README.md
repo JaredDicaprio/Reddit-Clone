@@ -1,4 +1,4 @@
-# IntelliJS
+# Reddit-Clone
 
 - Another social media clone.
 
